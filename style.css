@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
     position: relative;
+     background-image: url("pizza.jpg");
 }
 
 main {
