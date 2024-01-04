@@ -1,4 +1,4 @@
-const targetDate = new Date('2024-07-14T00:00:00');
+const targetDate = new Date('2024-01-17T00:00:00');
 
 // Funkcja odliczania
 function countdown() {
@@ -21,7 +21,7 @@ function countdown() {
 
   // Sprawdzenie warunku zakończenia odliczania
   if (timeDiff <= 0) {
-    document.getElementById("countdown").innerHTML = "Szczęśliwego dnia kebaba!";
+    document.getElementById("countdown").innerHTML = "Szczęśliwego dnia pizzy!";
     clearInterval(timer);
     
   }
